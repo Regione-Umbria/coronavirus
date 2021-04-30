@@ -9,7 +9,7 @@ Il dataset contiene le informazioni generali riguardanti l'emergenza da coronavi
 
 Interrogabile via API: [SI](https://apistore.regione.umbria.it/store/apis/info?name=COVID-19&version=1.0.0&provider=admin&tag=Agenda%20digitale-group)
 
-Pubblicato in Open Data: [SI](http://dati.umbria.it/group/protezione-civile) (in via di completamento)
+Pubblicato in Open Data: [SI](http://dati.umbria.it/dataset?tags=coronavirus)
 
 ![Schema principali concetti](/img/schema_tracciato_covid_umbria.png)
 
