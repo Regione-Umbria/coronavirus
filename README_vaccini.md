@@ -13,7 +13,7 @@ Il dataset contiene le informazioni riguardanti le somministrazioni delle dosi v
 
 Interrogabile via API: no
 
-Pubblicato in Open Data: [SI](http://dati.umbria.it/group/protezione-civile)
+Pubblicato in Open Data: [SI](http://dati.umbria.it/dataset?tags=coronavirus)
 
 n.b. La disponibilità attuale di ogni campo per le varie aree geografiche o strutture è indicata nelle colonne "Disp".
 
