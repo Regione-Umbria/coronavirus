@@ -1,4 +1,4 @@
 # coronavirus
 
-le informazioni sull'emergenza COVID-19 sono al seguente indirizzo:
-[coronavirus.regione.umbria.it|http://coronavirus.regione.umbria.it]
+le informazioni sull'emergenza COVID-19 sono ora al seguente indirizzo:
+http://coronavirus.regione.umbria.it
